@@ -1,5 +1,6 @@
 .env
 node_modules
-images/**
+images/comparison/*
+images/targets/*
 !images/comparison/empty_file
 !images/targets/empty_file
