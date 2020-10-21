@@ -1,0 +1,5 @@
+.env
+node_modules
+images/**
+!images/comparison/empty_file
+!images/targets/empty_file
